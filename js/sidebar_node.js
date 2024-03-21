@@ -28,7 +28,7 @@ function addSidebarStyles() {
         .sidebar ul {
             list-style-type: none;
       
-            border-bottom: 6px solid #252525;
+            border-bottom: 5px solid #FF96AC;
             background: #000000;    
             padding-left: 5px;
             padding-right: 5px;
@@ -222,13 +222,13 @@ background: linear-gradient(90deg, rgb(62 62 62 / 46%) 0%, rgb(39 39 39 / 47%) 5
     right: 0;
 }
 .pinned{
-    fill: #999 !important;
+    fill: #FF96AC !important;
     opacity: 1 !important;
 }
 .svg_class{
     width: 24px;
     height: 24px;
-    fill: #4e4e4e;
+    fill: #000000;
     cursor: pointer;
     /* hacky fix */
     margin-top: -5px;
