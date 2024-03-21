@@ -1,4 +1,26 @@
 
+
+
+# 我自己改了一版 ComfyPark 配色（我就喜欢 ALL BLACK ）
+
+
+
+![Dingtalk_20240322020620](https://github.com/ZHO-ZHO-ZHO/ComfyUI-N-Sidebar-ZHO/assets/140084057/f2a71532-04f5-4098-a87f-768b25791f76)
+
+
+
+
+
+
+
+
+
+
+# 以下是原作者内容：
+
+
+
+
 ![Drag and Drop Nodes](./images/header.png)
 
 
