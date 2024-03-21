@@ -28,8 +28,8 @@ function addSidebarStyles() {
         .sidebar ul {
             list-style-type: none;
       
-            border-bottom: 6px solid #000000;
-            background: #000000;    
+            border-bottom: 6px solid #252525;
+            background: #222;    
             padding-left: 5px;
             padding-right: 5px;
         }
@@ -40,7 +40,7 @@ function addSidebarStyles() {
 		}
 		
 .content_sidebar {
-    background-color: #000000; /*#000000;*/
+    background-color: #353535; /*#3333337d;*/
     overflow-y: auto; 
     overflow-x: hidden;
     height: 100%;
@@ -66,7 +66,7 @@ background: linear-gradient(90deg, rgb(62 62 62 / 46%) 0%, rgb(39 39 39 / 47%) 5
     padding: 10px;
     border: none;
     user-select: none; 
-    background: #000000;
+    background: #222;
     color: #fff;
 
 }
@@ -100,7 +100,7 @@ background: linear-gradient(90deg, rgb(62 62 62 / 46%) 0%, rgb(39 39 39 / 47%) 5
     right: 0px;
     padding: 3px;
     font-size: larger;
-    background: #000000;
+    background: #636363;
     color: #fff;
     margin: 4px;
     border-radius: 5px;
@@ -120,23 +120,23 @@ background: linear-gradient(90deg, rgb(62 62 62 / 46%) 0%, rgb(39 39 39 / 47%) 5
     font-family: 'Open Sans',sans-serif;
     text-transform: capitalize;
     margin: 2px;
-	background-color: #000000;
+	background-color: #222;
     border-radius: 9px;
         padding-top: 11px;
         font-size: 15px;
 }
 .sidebarCategory:hover{
-	background-color: #000000;
+	background-color: #232323;
 }
 .sidebarItem:hover{
-	background-color: #000000;
+	background-color: #3a3a3a;
 }
 .sidebarItem {
     list-style-type: none;
     font-family: 'Open Sans',sans-serif;
     text-transform: capitalize;
     margin: 2px;
-	background: #000000;
+	background: #353535;
     border-radius: 8px;
 
     white-space: nowrap;
@@ -188,7 +188,7 @@ background: linear-gradient(90deg, rgb(62 62 62 / 46%) 0%, rgb(39 39 39 / 47%) 5
     user-select: none;
     padding: 2px;
     font-size: 20px;
-    background-color: #000000;
+    background-color: #353535;
     border-bottom-right-radius: 5px;
     border-top-right-radius: 5px;
 
