@@ -28,7 +28,7 @@ function addSidebarStyles() {
         .sidebar ul {
             list-style-type: none;
       
-            border-bottom: 3px solid #FF96AC;
+            border-bottom: 2px solid #FF96AC;
             background: #000000;    
             padding-left: 5px;
             padding-right: 5px;
@@ -228,7 +228,7 @@ background: linear-gradient(90deg, rgb(62 62 62 / 46%) 0%, rgb(39 39 39 / 47%) 5
 .svg_class{
     width: 24px;
     height: 24px;
-    fill: #FFB0C1;
+    fill: #353535;
     cursor: pointer;
     /* hacky fix */
     margin-top: -5px;
